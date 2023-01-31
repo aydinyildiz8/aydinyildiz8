@@ -28,6 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aydinyildiz8&show_icons=true&locale=en&layout=compact" alt="aydinyildiz8" /></p>
 
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aydinyildiz8&show_icons=true&locale=en" alt="aydinyildiz8" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aydinyildiz8&show_icons=true&locale=en" alt="aydinyildiz8" /></p>
