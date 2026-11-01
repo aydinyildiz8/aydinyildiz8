@@ -1,14 +1,39 @@
+<div align="center">
+
 # Hi, I'm Aydın Yıldız 👋
 
-**Software Developer && Electrical & Electronics Engineer**
+### Software Developer && Electrical & Electronics Engineer
 
-C# · .NET · ASP.NET Core · SQL Server
+`C#` · `.NET` · `ASP.NET Core` · `SQL Server`
 
-I build web applications and RESTful APIs with C# and ASP.NET Core, with a focus on clean, layered architecture and maintainable code. I hold a B.Sc. in Electrical & Electronics Engineering, which shaped how I approach problems: break them down, design the structure first, then build.
+</div>
 
 ---
 
-### 🛠 Tech Stack
+### 👨‍💻 About Me
+
+I build web applications and RESTful APIs with C# and ASP.NET Core, with a focus on clean, layered architecture and maintainable code. My engineering background shaped how I approach problems: break them down, design the structure first, then build.
+
+- 🏗️ Building web apps and REST APIs with **ASP.NET Core MVC & Web API**
+- 🔐 Implementing authentication with **ASP.NET Core Identity** and **JWT**
+- 🧱 Designing **N-Tier** applications with **Entity Framework Core** and **SQL Server**
+- 🎓 Electrical & Electronics Engineering graduate, **Karadeniz Technical University**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET / ASP.NET Core" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="Microsoft SQL Server" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="45" height="45" />
+</p>
 
 | Area | Technologies |
 |---|---|
@@ -20,26 +45,6 @@ I build web applications and RESTful APIs with C# and ASP.NET Core, with a focus
 
 ---
 
-### 📂 Featured Projects
-
-#### [MyHotelProject](https://github.com/aydinyildiz8/MyHotelProject)
-A hotel management system built around an ASP.NET Core Web API, consumed by an ASP.NET Core MVC frontend.
-- RESTful API with a separate MVC client consuming its endpoints
-- JWT-based authentication
-- Hotel search by city and live currency exchange rates via the Booking.com API (RapidAPI)
-
-`ASP.NET Core Web API` `ASP.NET Core MVC` `EF Core` `JWT` `MSSQL`
-
-#### [EasyCashIdentityProject](https://github.com/aydinyildiz8/EasyCashIdentityProject)
-A banking-style money transfer application with user registration, login and account management.
-- User management with ASP.NET Core Identity
-- N-Tier architecture: Entity, Data Access, Business, DTO and Presentation layers
-- Data access with Entity Framework Core
-
-`ASP.NET Core MVC` `Identity` `EF Core` `N-Tier` `MSSQL`
-
----
-
 ### 🎓 Education
 
 **Karadeniz Technical University**
@@ -47,7 +52,9 @@ B.Sc. in Electrical and Electronics Engineering · 2016
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect
 
-- **Email:** [aydnyldz8@gmail.com](mailto:aydnyldz8@gmail.com)
-- **LinkedIn:** [linkedin.com/in/aydinyildiz8](https://linkedin.com/in/aydinyildiz8)
+<p align="left">
+  <a href="mailto:aydnyldz8@gmail.com"><img src="https://img.shields.io/badge/Email-aydnyldz8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/aydinyildiz8"><img src="https://img.shields.io/badge/LinkedIn-aydinyildiz8-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
