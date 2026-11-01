@@ -2,7 +2,7 @@
 
 # Hi, I'm Aydın Yıldız 👋
 
-### Software Developer || Electrical & Electronics Engineer
+### Software Developer - Electrical & Electronics Engineer
 
 `C#` · `.NET` · `ASP.NET Core` · `SQL Server`
 
