@@ -12,12 +12,14 @@
 
 ### 👨‍💻 About Me
 
-I build web applications and RESTful APIs with C# and ASP.NET Core, with a focus on clean, layered architecture and maintainable code. My engineering background shaped how I approach problems: break them down, design the structure first, then build.
+I'm a software developer focused on the .NET ecosystem, building web applications and RESTful APIs with C# and ASP.NET Core. Coming from Electrical & Electronics Engineering, I approach software the way I learned to approach circuits: understand the system, design the structure, then build it piece by piece.
 
-- 🏗️ Building web apps and REST APIs with **ASP.NET Core MVC & Web API**
-- 🔐 Implementing authentication with **ASP.NET Core Identity** and **JWT**
-- 🧱 Designing **N-Tier** applications with **Entity Framework Core** and **SQL Server**
-- 🎓 Electrical & Electronics Engineering graduate, **Karadeniz Technical University**
+- 🏗️ Web apps and REST APIs with **ASP.NET Core MVC & Web API**, documented with **Swagger**
+- 🧱 **N-Tier architecture** with **Repository** and **Unit of Work** patterns, DTOs and **AutoMapper**
+- 🗄️ Data access with **Entity Framework Core** (code-first migrations) and **SQL Server**
+- 🔐 Authentication with **ASP.NET Core Identity** and **JWT**, including email confirmation
+- ✅ Input validation with **FluentValidation**
+- 🔌 Integrations: **Stripe** payments, **MailKit / SendGrid** emails, **RapidAPI**, Excel reporting
 
 ---
 
@@ -38,7 +40,9 @@ I build web applications and RESTful APIs with C# and ASP.NET Core, with a focus
 | Area | Technologies |
 |---|---|
 | **Backend** | C#, .NET, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core |
+| **Architecture** | N-Tier, Repository Pattern, Unit of Work, DTO |
 | **Auth** | ASP.NET Core Identity, JWT |
+| **Libraries** | AutoMapper, FluentValidation, Swagger, MailKit |
 | **Database** | Microsoft SQL Server |
 | **Frontend** | HTML, CSS, JavaScript |
 | **Tools** | Git, GitHub, Postman, Node.js |
