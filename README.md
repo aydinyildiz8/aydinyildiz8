@@ -1,31 +1,53 @@
-<h1 align="center">Hi 👋, I'm Aydın</h1>
-<h3 align="center">Jr.Software Developer</h3>
+# Hi, I'm Aydın Yıldız 👋
+
+**Software Developer && Electrical & Electronics Engineer**
+
+C# · .NET · ASP.NET Core · SQL Server
+
+I build web applications and RESTful APIs with C# and ASP.NET Core, with a focus on clean, layered architecture and maintainable code. I hold a B.Sc. in Electrical & Electronics Engineering, which shaped how I approach problems: break them down, design the structure first, then build.
 
 ---
 
-- 🔭 I’m currently working on **.NETCORE**
+### 🛠 Tech Stack
 
-- 🌱 I’m currently learning **C#, .NetCore, JavaScripts, React, PHP, Python**
-
-- 📫 How to reach me **aydnyldz8@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aydinyldz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aydinyldz8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aydinyildiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydinyildiz8" height="30" width="40" /></a>
-<a href="https://instagram.com/aydinyildiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aydinyildiz8" height="30" width="40" /></a>
-<a href="https://discord.gg/Aydın Yıldız#6133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aydın Yıldız #6133" height="30" width="40" /></a>
-</p>
+| Area | Technologies |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core |
+| **Auth** | ASP.NET Core Identity, JWT |
+| **Database** | Microsoft SQL Server |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Tools** | Git, GitHub, Postman, Node.js |
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 📂 Featured Projects
+
+#### [MyHotelProject](https://github.com/aydinyildiz8/MyHotelProject)
+A hotel management system built around an ASP.NET Core Web API, consumed by an ASP.NET Core MVC frontend.
+- RESTful API with a separate MVC client consuming its endpoints
+- JWT-based authentication
+- Hotel search by city and live currency exchange rates via the Booking.com API (RapidAPI)
+
+`ASP.NET Core Web API` `ASP.NET Core MVC` `EF Core` `JWT` `MSSQL`
+
+#### [EasyCashIdentityProject](https://github.com/aydinyildiz8/EasyCashIdentityProject)
+A banking-style money transfer application with user registration, login and account management.
+- User management with ASP.NET Core Identity
+- N-Tier architecture: Entity, Data Access, Business, DTO and Presentation layers
+- Data access with Entity Framework Core
+
+`ASP.NET Core MVC` `Identity` `EF Core` `N-Tier` `MSSQL`
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aydinyildiz8&show_icons=true&locale=en&layout=compact" alt="aydinyildiz8" /></p>
+### 🎓 Education
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydinyildiz8&show_icons=true&locale=en" alt="aydinyildiz8" /></p>
+**Karadeniz Technical University**
+B.Sc. in Electrical and Electronics Engineering · 2016
+
+---
+
+### 📫 Contact
+
+- **Email:** [aydnyldz8@gmail.com](mailto:aydnyldz8@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aydinyildiz8](https://linkedin.com/in/aydinyildiz8)
