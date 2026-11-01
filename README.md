@@ -56,5 +56,6 @@ B.Sc. in Electrical and Electronics Engineering · 2016
 
 <p align="left">
   <a href="mailto:aydnyldz8@gmail.com"><img src="https://img.shields.io/badge/Email-aydnyldz8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br />
   <a href="https://linkedin.com/in/aydinyildiz8"><img src="https://img.shields.io/badge/LinkedIn-aydinyildiz8-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
